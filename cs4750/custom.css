@@ -1,0 +1,61 @@
+.topnav {
+    background-color: rosybrown;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav-right {
+    float: right;
+    color: #f2f2f2;
+  }
+
+label {
+    float: left
+}
+span {
+    display: block;
+    overflow: hidden;
+    padding: 0 4px 0 6px
+}
+input {
+    width: 100%
+}
+
+.date {
+    float:right
+}
+
+.date {
+    float:right
+}
+
+
+.center {
+    text-align: center;
+    }
+
+
+.username {
+    font-size: 500px;
+  }
+
+html
+{ 
+    padding-bottom: 25px;
+}
+
